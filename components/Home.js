@@ -29,7 +29,7 @@ function Home() {
   return (
     <div className={styles.main}>
       <div className={styles.search}>
-        <SearchBar/>
+      Search Bar feature
       </div>
       <div className={styles.container}>{cities}</div>
     </div>
